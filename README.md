@@ -27,4 +27,4 @@ Frontend-focused developer and M.Tech student, building automation agents and wo
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/abhitechdev"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-](https://abhitechdev.hashnode.dev/)
+
